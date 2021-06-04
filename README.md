@@ -1,3 +1,3 @@
-👋 Hi, I’m Tanguy
-🌱 I’m currently learning VueJS and Symfony
+👋 Hi, I’m Tanguy <br>
+🌱 I’m currently learning VueJS and Symfony <br>
 📫 U can reach me with my mail : tanguy.augras@gmail.com
